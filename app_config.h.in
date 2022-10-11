@@ -1,0 +1,3 @@
+// the configured options and settings for app
+#define cpp_example_VERSION_MAJOR @cpp_example_VERSION_MAJOR@
+#define cpp_example_VERSION_MINOR @cpp_example_VERSION_MINOR@
